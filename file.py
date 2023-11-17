@@ -1,2 +1,2 @@
-print("CALCULATOR\nENTER YOUR Expression :")
+print("CALCULATOR\nENTER YOUR Expression (exp 6+0):")
 print(eval(input())
